@@ -20,8 +20,8 @@
     "eslint": "^1.1.0",
     "lodash": "^3.10.1",
     "natural": "^0.2.1",
-    "node-normalizer": "^0.1.1",
-    "sfacts": "0.0.12",
+    "node-normalizer": "git@github.com:killix/normalizer.git",
+    "sfacts": "git@github.com:killix/sfacts.git",
     "wordnet": "^0.1.2"
   },
   "devDependencies": {
